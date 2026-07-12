@@ -42,13 +42,11 @@ The insights generated from this project are structured into a two-page executiv
 ### Page 1: Customer Demographic Profile
 Focuses on **Target Audience Identification** (Who is the customer?).
 * **Key Visuals:** Age & Gender Distribution, High-Spender Distribution across Professions, Family Size Density, and Professional Income Benchmarking.
-
 [Strategic Dashboard Page1](dashboards/Strategic_Dashboard_Page1.png)
 
 ### Page 2: Financial Correlates & Spending Behavior
 Focuses on **Consumption Drivers & Behavioral Analysis** (Why do they spend?).
 * **Key Visuals:** Income Trajectory by Family Size, Career Stage Spending Patterns, Generational Spending Power, and a cleaned Income vs. Intent Correlation Trendline.
-
 [Strategic Dashboard Page2](dashboards/Strategic_Dashboard_Page2.png)
 
 ---
